@@ -131,7 +131,7 @@ python3 hello.py
 
 ## 练习
 
-1. 在Python交互式环境中输入下面的代码并查看结果，请尝试将看到的内容翻译成中文。
+### 1. 在Python交互式环境中输入下面的代码并查看结果，请尝试将看到的内容翻译成中文。
 
 ```python
 import this
@@ -159,4 +159,9 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 
-2. 学习使用turtle在屏幕上绘制图形。
+### 2. 学习使用turtle在屏幕上绘制图形。
+
+Turtle库是Python语言中一个绘制图像的函数库。
+
+Turtle库的[Turtle 和 Screen 方法](https://docs.python.org/zh-cn/3/library/turtle.html)。
+
